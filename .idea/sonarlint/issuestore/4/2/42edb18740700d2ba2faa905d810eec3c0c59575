@@ -1,0 +1,18 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ8‘φτω1J$8aa34c5f-fe41-4ce4-8a9f-d1f224cb076f
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(£¬ΧÒ8φτω1J$4068ded8-3113-4389-a0da-f902b6d4c51a
+m	java:S106"+Replace this use of System.out by a logger.(¥ήϋκ8φτω1J$ce702c77-8ddb-40f4-894e-8f75ab879871
+m	java:S106!"+Replace this use of System.err by a logger.( ª‰8΅φτω1J$2005f173-6db1-4952-b3dc-23f2bb2db3e7
+r	java:S106+"+Replace this use of System.out by a logger.(©µώ“ύÿÿÿÿ8Άφτω1J$e2a0b782-b488-4f78-aa2d-79daf83af72d
+m	java:S106/"+Replace this use of System.out by a logger.(“οΗ8£φτω1J$e40befa9-7dcb-4e08-bade-2284b0d889d0
+m	java:S1067"+Replace this use of System.out by a logger.(²πÒ»8¤φτω1J$35cb7a00-fd6e-43a4-b319-18b5e5a3ecb7
+l	java:S106>"+Replace this use of System.err by a logger.(σΐβk8¥φτω1J$3c34d4ac-edf2-4f69-a051-1272ae8fd0c1
+r	java:S106H"+Replace this use of System.err by a logger.(ΤΔηΪώÿÿÿÿ8§φτω1J$606b5822-ed5e-4cbb-853e-13331963a86b
+r	java:S106O"+Replace this use of System.err by a logger.(™™θΑψÿÿÿÿ8¨φτω1J$9f58f942-454f-4d66-9e6c-df3338a4d7db
+΅
+java:S2142`"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ς¶Θ8©φτω1J$5f8fc1b9-2e6c-437d-a2a2-a02920e39f20
+r	java:S106]"+Replace this use of System.out by a logger.(ρ—Έ½ϊÿÿÿÿ8ªφτω1J$4daea14b-c643-4b8f-b827-7203e8fe3b59
+m	java:S106a"+Replace this use of System.err by a logger.(ΪρΏ8ªφτω1J$3db7341a-e4da-4f9c-a80d-b04e33e5ee13
+‰
+java:S6541"ΕA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 85 to 64, Complexity from 20 to 14, Nesting Level from 5 to 2, Number of Variables from 20 to 6.(£¬ΧÒ8«φτω1J$18a881c9-8abe-4337-b40a-61ce6252feb7
